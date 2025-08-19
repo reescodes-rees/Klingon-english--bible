@@ -1,6 +1,4 @@
-# Study Questions
-
-## Genesis 1
+# Chapter 1 Study Questions
 
 1.  **English:** Why do you think God used words (speech) to create instead of weapons or hands?
     **Klingon:** qatlh mu'tlhegh lo' Qun chenmoHmeH, nuH pagh ghop lo'be'?
@@ -37,15 +35,3 @@
 
 12. **English:** God creates humanity "in our image" (`vay' rur`) and declares the entire creation "very good" (`majqu'`). In Klingon culture, what does it mean to be made in the image of a powerful, commanding God? What is the warrior's definition of "very good"?
     **Klingon:** nuvpu' "vay' rur" chenmoHlu' 'ej Hoch "majqu'" ponglu'. tlhIngan tIghDaq, nuq 'oH Qun HoSghaj rur chenmoHlu' 'e' 'angmeH? nuq 'oH "majqu'" SuvwI'vaD?
-
----
-
-## Genesis 2
-
-1.  **English:** Why would rest be part of strength?
-2.  **English:** How does “holy rest” connect to Klingon ideas of preparing for battle?
-3.  **English:** Why is work (guarding the garden) part of paradise?
-4.  **English:** How does “one forbidden tree” test loyalty like a Klingon House oath?
-5.  **English:** Why did God give man a partner instead of leaving him alone?
-6.  **English:** How does the act of naming reflect power and responsibility?
-7.  **English:** What does “becoming one flesh” mean in Klingon cultural terms?

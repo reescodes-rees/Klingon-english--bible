@@ -1,6 +1,6 @@
-# Companionship in Scripture
+# Chapter 2 Notes: Companionship and Duty
 
-## Genesis 2: Themes of Rest, Work, and Unity
+## Themes of Rest, Work, and Unity
 
 ### The Nature of Rest
 - **Concept:** God's rest on the seventh day is presented as an act of completion and holiness, not weariness.

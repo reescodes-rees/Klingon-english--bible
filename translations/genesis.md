@@ -51,3 +51,56 @@
 
 3. **English:** What does it mean to you that God called creation “good”?
    **Klingon:** qatlh 'ut 'e' Qun pong *maj* chenmoH? nuq 'oH 'e' qelbogh SoH?
+
+---
+
+## Verse 6
+**English:** And God said, “Let there be a vault between the waters to separate water from water.”
+**Klingon:** jatlh Qun: “bIQmey boqmoHmeH, SuvwI'ghor chenmoHlu'.”
+
+---
+
+## Verse 7
+**English:** So God made the vault and separated the water under the vault from the water above it.
+**Klingon:** vaj chenmoH Qun SuvwI'ghor, 'ej bIQ bIngvo' bIQ Hurghvo' buq.
+
+---
+
+## Verse 8
+**English:** God called the vault “sky.” And there was evening, and there was morning—the second day.
+**Klingon:** “chal” pong Qun SuvwI'ghor’e’. vaj ram ‘ej jajlo’— jaj cha’.
+
+---
+
+## Verse 9
+**English:** And God said, “Let the water under the sky be gathered to one place, and let dry ground appear.” And it was so.
+**Klingon:** jatlh Qun: “chalmey bIngDaq bIQmey boq, vaj nagh bIng ‘ang.” ‘ej ‘oHmo’ ta’ta’.
+
+---
+
+## Verse 10
+**English:** God called the dry ground “land,” and the gathered waters he called “seas.” And God saw that it was good.
+**Klingon:** “tera’” pong Qun nagh bIng’e’; “bIQ’a’mey” pong bIQmey boQlu’taH’e’. vaj Qun legh maj ‘oH.
+
+---
+
+🔍 Study Notes (Verses 6–10)
+## Notes / QInmey
+
+- **English:** In Klingon thought, dividing the waters can resemble dividing *houses or clans*. God’s order is like assigning each warrior his place.
+- **Klingon:** tlhIngan tIghDaq, bIQ buq rur tuqmey buq. ngoDvam rur Qun ra'meH, Hoch SuvwI' juH.
+
+- **English:** The naming of “sky,” “land,” and “seas” shows authority. Naming is a warrior’s claim of ownership.
+- **Klingon:** pongmeH *HoD* ra'. pong = HoS, Qun ‘ang qachDaj.
+
+❓ Discussion Questions (Verses 6–10)
+## Questions / yu'ghachmey
+
+1. **English:** Why do you think God gave names to creation?
+   **Klingon:** qatlh pongmey nob Qun?
+
+2. **English:** What does separating water and land teach us about order and discipline?
+   **Klingon:** nuq ghojmoH bIQ buq tera' je — ra'ghom je?
+
+3. **English:** How does this compare with Klingon ideas of clan territory?
+   **Klingon:** chay' rur tlhIngan tuqmey Sepmeyvam buq?

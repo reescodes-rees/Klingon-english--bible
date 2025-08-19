@@ -12,7 +12,7 @@
 
 *   **Tasks:**
     *   **1.1: Recruit Core Team (Month 1)**
-        *   Identify and recruit a Project Lead.
+        *   **Project Lead:** Rees Farrington
         *   Recruit a Lead Translator, a Human Theology Expert, and a Klingon Cultural Expert.
         *   Define roles and responsibilities for the core team.
     *   **1.2: Develop Style Guide (Month 2)**

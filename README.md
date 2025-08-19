@@ -32,7 +32,11 @@ This is a monumental task, and we welcome all who wish to lend their strength to
 *   **Artists:** To create illustrations that capture the spirit of the project.
 *   **Donors:** To provide the initial funding for the project's launch.
 
-If you wish to contribute, please contact the project lead.
+If you wish to contribute, please contact the project lead, Rees Farrington, at reescoding94@gmail.com.
+
+## Donations
+
+To support this project financially, you can send donations via Cash App to `$reescodes`. All contributions will go directly towards the operational costs of the project and funding future translations.
 
 ## Project Plan (High-Level)
 

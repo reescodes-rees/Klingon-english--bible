@@ -36,10 +36,6 @@ This is a monumental task, and we welcome all who wish to lend their strength to
 
 If you wish to contribute, please contact the project lead, Rees Farrington, at reescoding94@gmail.com.
 
-## Official Channels
-
-Follow the project's progress on our official YouTube channel: [@ReesFarrington](https://www.youtube.com/@ReesFarrington)
-
 ## Donations
 
 To support this project financially, you can send donations via Cash App to `$reescodes`. All contributions will go directly towards the operational costs of the project and funding future translations.

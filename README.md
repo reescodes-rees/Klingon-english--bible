@@ -19,6 +19,7 @@ The profits generated from this venture will be dedicated to a continuing missio
     *   **A Human Perspective:** Drawing on centuries of theological, historical, and cultural scholarship.
     *   **A Klingon Perspective:** Interpreting the text through the cultural values of honor, duty, sacrifice, and the warrior's spirit. How would a Klingon understand the story of Abraham and Isaac? What are the parallels between the story of Kahless and the life of Moses?
 *   **Discussion and Study:** To include questions and discussion topics designed to provoke thought and conversation among readers, whether they are studying alone or in groups.
+*   **Audio Version:** To create a full audio production of the translation and commentary, making the project accessible to all.
 *   **Philanthropy:** To create a self-sustaining model where the success of this project funds future translations of other important works.
 
 ## How to Contribute
@@ -30,9 +31,14 @@ This is a monumental task, and we welcome all who wish to lend their strength to
 *   **Klingon Cultural Experts:** Fans and scholars with a deep knowledge of Klingon culture, language, and history as depicted in Star Trek.
 *   **Editors:** To ensure consistency, clarity, and quality.
 *   **Artists:** To create illustrations that capture the spirit of the project.
+*   **Voice Actors, Sound Engineers, and Audio Editors:** To help produce the audio version of the project.
 *   **Donors:** To provide the initial funding for the project's launch.
 
 If you wish to contribute, please contact the project lead, Rees Farrington, at reescoding94@gmail.com.
+
+## Official Channels
+
+Follow the project's progress on our official YouTube channel: [@ReesFarrington](https://www.youtube.com/@ReesFarrington)
 
 ## Donations
 

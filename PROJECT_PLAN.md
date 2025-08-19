@@ -40,6 +40,7 @@
     *   Complete translation of the selected book.
     *   Complete commentary and discussion questions.
     *   Pilot translation reviewed and edited.
+    *   Audio version of the pilot completed.
 
 *   **Tasks:**
     *   **2.1: Translation (Months 4-6)**
@@ -52,9 +53,13 @@
     *   **2.3: Review and Editing (Months 8-9)**
         *   The entire pilot is reviewed by the core team for accuracy, consistency, and tone.
         *   An external editor is brought in for a final proofread.
+    *   **2.4: Audio Production (Months 7-9)**
+        *   Recruit and cast voice actors for the narration and commentary.
+        *   Record the audio for the pilot translation.
+        *   Edit and mix the audio, adding sound effects and music where appropriate.
 
 *   **Potential Challenges:**
-    *   Underestimating the time required for translation and commentary.
+    *   Underestimating the time and cost required for high-quality audio production.
     *   Ensuring that the Klingon commentary is both creative and respectful of the source material.
 
 ## Phase 3: Publication and Community Growth (Months 10-12)
@@ -62,7 +67,7 @@
 **Goal:** To share the pilot with the world and build a community around the project.
 
 *   **Milestones:**
-    *   Pilot translation published online.
+    *   Pilot translation (text and audio) published online.
     *   Crowdfunding campaign launched.
     *   Community of contributors begins to grow.
 
@@ -70,6 +75,7 @@
     *   **3.1: Publication (Month 10)**
         *   Design and format the pilot for digital publication (e.g., as a PDF, a web-based version, or an e-book).
         *   Publish the pilot on the project website.
+        *   Upload the audio version to YouTube and major podcasting platforms.
     *   **3.2: Crowdfunding (Month 11)**
         *   Plan and launch a crowdfunding campaign (e.g., on Kickstarter or Patreon) to fund the next phase of the project.
         *   Create rewards for backers (e.g., early access to new translations, special edition copies).
@@ -92,7 +98,7 @@
 
 *   **Tasks:**
     *   **4.1: Continue Translation**
-        *   Establish a regular schedule for translating and publishing new books of the Bible.
+        *   Establish a regular schedule for translating and publishing new books of the Bible, in both text and audio formats.
     *   **4.2: Select New Texts**
         *   The core team, in consultation with the community, will select new texts for translation. Priority will be given to texts that are in the public domain.
     *   **4.3: Financial Management**

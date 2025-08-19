@@ -19,3 +19,12 @@
 
 6.  **English:** How does this compare with Klingon ideas of clan territory?
     **Klingon:** chay' rur tlhIngan tuqmey Sepmeyvam buq?
+
+7.  **English:** What does it mean that plants and trees produce “according to their kinds”?
+    **Klingon:** nuq ‘oH *ghotpu’ tI’ tI’ ghaj* jatlhbogh ngoD?
+
+8.  **English:** How does the idea of multiplying life compare to Klingon ideas of House strength?
+    **Klingon:** chay’ ghurbogh yIn rur tlhIngan tuq HoS?
+
+9.  **English:** Why do you think God marked time with lights instead of other symbols?
+    **Klingon:** qatlh chalDaq wovmey lo’ Qun poH ‘angmeH?

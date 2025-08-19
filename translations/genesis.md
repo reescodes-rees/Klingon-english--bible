@@ -104,3 +104,56 @@
 
 3. **English:** How does this compare with Klingon ideas of clan territory?
    **Klingon:** chay' rur tlhIngan tuqmey Sepmeyvam buq?
+
+---
+
+## Verse 11
+**English:** Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their kinds.” And it was so.
+**Klingon:** jatlh Qun: “tera’ naghvo’ tI' chenmoH; porghmey ghaj tI' pe'meH; ‘ej Sormey ghaj naHmey tI' ghaj.” vaj ta’ta’.
+
+---
+
+## Verse 12
+**English:** The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good.
+**Klingon:** chenmoH tera’: tI' ghaj porghmey tI' pe'meH, ‘ej Sor ghaj naHmey. vaj Qun legh maj ‘oH.
+
+---
+
+## Verse 13
+**English:** And there was evening, and there was morning—the third day.
+**Klingon:** vaj ram ‘ej jajlo’— jaj wej.
+
+---
+
+## Verse 14
+**English:** And God said, “Let there be lights in the vault of the sky to separate the day from the night, and let them serve as signs to mark sacred times, days, and years.”
+**Klingon:** jatlh Qun: “chal SuvwI'ghorDaq wovmey chenmoH, jaj ramvo’ buqmeH; ‘ej ‘op ‘ang ‘ej jaj DIS poH ‘ang.”
+
+---
+
+## Verse 15
+**English:** And let them be lights in the sky vault to give light on the earth.” And it was so.
+**Klingon:** “vaj tera’ wovmoHmeH chalDaq wovmey chenmoH.” vaj ta’ta’.
+
+---
+
+🔍 Study Notes (Verses 11–15)
+## Notes / QInmey
+
+- **English:** Plants and fruit trees represent *life that multiplies*. In Klingon values, this mirrors the idea of a strong House growing through offspring and honor.
+- **Klingon:** tI' naHmey rur tuqmey: ghotmey ghur, batlh je ghur.
+
+- **English:** The stars and lights marking time is about **order**. For Klingons, discipline and calendars of battle matter greatly.
+- **Klingon:** chal wovmey = poH ra'. tlhIngan may' mIwDaq, poH ‘ut law'.
+
+❓ Discussion Questions (Verses 11–15)
+## Questions / yu'ghachmey
+
+1. **English:** What does it mean that plants and trees produce “according to their kinds”?
+   **Klingon:** nuq ‘oH *ghotpu’ tI’ tI’ ghaj* jatlhbogh ngoD?
+
+2. **English:** How does the idea of multiplying life compare to Klingon ideas of House strength?
+   **Klingon:** chay’ ghurbogh yIn rur tlhIngan tuq HoS?
+
+3. **English:** Why do you think God marked time with lights instead of other symbols?
+   **Klingon:** qatlh chalDaq wovmey lo’ Qun poH ‘angmeH?

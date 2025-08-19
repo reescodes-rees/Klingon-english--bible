@@ -157,3 +157,75 @@
 
 3. **English:** Why do you think God marked time with lights instead of other symbols?
    **Klingon:** qatlh chalDaq wovmey lo’ Qun poH ‘angmeH?
+
+---
+
+## Verse 20
+**English:** And God said, “Let the water teem with living creatures, and let birds fly above the earth across the vault of the sky.”
+**Klingon:** jatlh Qun: “bIQDaq yInbogh ghotpu’ tu’lu’jaj; chal SuvwI’ghor bIngDaq bo’Daj rInbogh bo’ tu’lu’jaj.”
+
+---
+
+## Verse 21
+**English:** So God created the great creatures of the sea and every living thing with which the water teems and that moves about in it, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
+**Klingon:** vaj chenmoH Qun bIQ’a’ tIn ghotpu’ je Hoch yInbogh bIQDaq ghoS; je bo’mey bIngvo’ ghoS. vaj Qun legh maj ‘oH.
+
+---
+
+## Verse 22
+**English:** God blessed them and said, “Be fruitful and increase in number and fill the water in the seas, and let the birds increase on the earth.”
+**Klingon:** Qun joHpu’ chaH ‘ej jatlh: “naHmey tI’ ‘ej ghur; bIQ’a’Daq yIbuS; tera’Daq bo’mey yIghur.”
+
+---
+
+## Verse 23
+**English:** And there was evening, and there was morning—the fifth day.
+**Klingon:** vaj ram ‘ej jajlo’— jaj vagh.
+
+---
+
+## Verse 24
+**English:** And God said, “Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind.” And it was so.
+**Klingon:** jatlh Qun: “tera’Daq yInbogh ghotpu’ tu’lu’jaj: Sepmey, bIQmeyDaq ghoSbogh, ‘ej lam je.” vaj ta’ta’.
+
+---
+
+## Verse 25
+**English:** God made the wild animals according to their kinds, the livestock according to their kinds, and all the creatures that move along the ground according to their kinds. And God saw that it was good.
+**Klingon:** chenmoH Qun lammey Sepmey je, tera’Daq ghoSbogh Hoch ghotpu’ je. vaj Qun legh maj ‘oH.
+
+---
+
+## Verse 26
+**English:** Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish of the sea and the birds of the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”
+**Klingon:** jatlh Qun: “HIghoS, man chenmoH vay’ rur, vay’ rur; vaj ra’ bIQ’a’ ghotpu’ je, bo’mey je, Sepmey je, lam je, tera’Daq ghoSbogh Hoch je.”
+
+---
+
+## Verse 27
+**English:** So God created mankind in his own image, in the image of God he created them; male and female he created them.
+**Klingon:** vaj chenmoH Qun nuv vay’ rur; vay’ rur chenmoH. loD be’ je chenmoH.
+
+---
+
+## Verse 28
+**English:** God blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.”
+**Klingon:** Qun joHpu’ chaH ‘ej jatlh: “naHmey tI’ ‘ej ghur; tera’ yInmol ‘ang; bIQ’a’ ghotpu’ bo’mey je yIra’; lamDaq Hoch yInbogh yIra’.”
+
+---
+
+## Verse 29
+**English:** Then God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food.”
+**Klingon:** jatlh Qun: “tera’Daq HochDaq, porghmey ghaj tI’ pe’mey, naHmey ghaj Sormey— SoHvaD nob. Sojvam ‘oH.”
+
+---
+
+## Verse 30
+**English:** And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so.
+**Klingon:** ‘ej Hoch tera’ lam, chalDaq bo’mey, lamDaq ghoSbogh ghotpu’—yIn SuS ghajbogh Hoch—SoHvaD porghmey SuD nob. vaj ta’ta’.
+
+---
+
+## Verse 31
+**English:** God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day.
+**Klingon:** Hoch chenmoHbogh Qun legh, vaj majqu’ ‘oH. vaj ram ‘ej jajlo’— jaj jav.

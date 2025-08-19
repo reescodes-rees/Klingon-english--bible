@@ -66,6 +66,15 @@ This project will be executed in several phases:
     *   Continue the translation of the Old and New Testaments.
     *   Use profits to begin the translation of other texts.
 
+## Repository Structure
+
+The project is organized into the following directories:
+
+*   `roadmap.md`: The detailed project plan and development roadmap.
+*   `translations/`: Contains the translated texts, with each book in its own file.
+*   `notes/`: Contains the study notes and cultural commentary.
+*   `questions/`: Contains discussion questions related to the texts.
+
 ## Suggested Materials
 
 This project will draw on a wide range of materials. We welcome suggestions for additional resources. Our current list includes:
